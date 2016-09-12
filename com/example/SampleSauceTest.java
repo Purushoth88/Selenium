@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
