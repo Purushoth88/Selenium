@@ -1,3 +1,5 @@
+package com.example.test;
+
 import static org.junit.Assert.*;
 
 import java.net.URL;
